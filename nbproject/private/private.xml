@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/web/staff-login.jsp</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/src/java/com/dao/RoomDAO.java</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/web/edit-room.jsp</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/web/delete-staff.jsp</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/web/register-student.jsp</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/web/edit-profile-staff.jsp</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/web/add-staff.jsp</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/src/java/com/model/Allocation.java</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/web/deleteStudent.jsp</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/src/java/com/servlet/StudentLogoutServlet.java</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/web/room-details.jsp</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/web/student-login.jsp</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/src/java/com/dao/StaffDAO.java</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/web/add-room.jsp</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/src/java/com/servlet/UpdateProfileStaffServlet.java</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/web/login-admin.html</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/web/payment-details.jsp</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/src/java/com/model/Student.java</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/src/java/com/servlet/RegisterStudentServlet.java</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/src/java/com/dao/StaffDAOLogin.java</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/web/student-details.jsp</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/src/java/com/servlet/StudentLoginServlet.java</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/web/staff-details.jsp</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/src/java/com/servlet/StaffLoginServlet.java</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/src/java/com/servlet/UpdateProfileStudentServlet.java</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/web/delete-room.jsp</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/src/java/com/model/Staff.java</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/web/staff-dashboard.jsp</file>
+            <file>file:/D:/Netbeans%20Project/HostelManagement22/web/add-staff-process.jsp</file>
+        </group>
+    </open-files>
+</project-private>
